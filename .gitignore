@@ -1,0 +1,13 @@
+/data/**
+data/**
+UZB/data/**
+/UZB/data/**
+*.nii
+AttenuationMD_python/article/figs/**
+AttenuationMD_python/debug/**
+AttenuationMD_python/data/**
+AttenuationMD_python/artifacts/**
+python/**
+debug/**
+files/**
+UZB/**
